@@ -1,4 +1,4 @@
-=== BlankSlate ===
+=== Original Themeb: BlankSlate ===
 
 Contributors: webguyio
 Donate link: https://opencollective.com/blankslate
